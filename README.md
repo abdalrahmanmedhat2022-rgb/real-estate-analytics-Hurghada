@@ -24,6 +24,7 @@ This dashboard analyzes real estate data to provide insights into pricing, prope
 - Focused on the Hurghada – Red Sea real estate market
 
 ## 📌 Project Details
+Dashboard preview
 | Item              | Details                          |
 |-------------------|----------------------------------|
 | *Domain*        | Real Estate Analytics            |
