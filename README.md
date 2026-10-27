@@ -30,4 +30,6 @@ This dashboard analyzes real estate data to provide insights into pricing, prope
 | *Location*      | Hurghada – Red Sea, Egypt        |
 | *Tools*         | Microsoft Excel                  |
 | *Status*        | Completed           
+
+
 Dashboard preview
