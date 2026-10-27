@@ -24,10 +24,10 @@ This dashboard analyzes real estate data to provide insights into pricing, prope
 - Focused on the Hurghada – Red Sea real estate market
 
 ## 📌 Project Details
-Dashboard preview
 | Item              | Details                          |
 |-------------------|----------------------------------|
 | *Domain*        | Real Estate Analytics            |
 | *Location*      | Hurghada – Red Sea, Egypt        |
 | *Tools*         | Microsoft Excel                  |
 | *Status*        | Completed           
+Dashboard preview
