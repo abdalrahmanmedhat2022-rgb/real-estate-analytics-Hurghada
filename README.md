@@ -31,6 +31,6 @@ This dashboard analyzes real estate data to provide insights into pricing, prope
 | *Tools*         | Microsoft Excel                  |
 | *Status*        | Completed           
 
-![Real Estate Analytics Dashboard](Dash2.png)
+![Real Estate Analytics Dashboard](DASH 01.png)
 
 Dashboard preview
